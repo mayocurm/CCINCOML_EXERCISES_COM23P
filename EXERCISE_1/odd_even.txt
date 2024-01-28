@@ -1,0 +1,18 @@
+CALVO, JEZLYN MAE J.
+COM23P
+
+
+PSEUDOCODE
+1.	Declare a variable to store the user input. (num as an Integer)
+
+2.	Create a Scanner object to read input. (reader as the Scanner object)
+
+3.	Ask the user to enter a number. (Print “Enter a number:)
+
+4.	Read the user input and store it in the num variable. (read num from user input using reader)
+
+5.	Check if the number is even. (if statement: num % 2 == 0) then
+
+6.	The output message indicates that the number is even. (Print num + “is even”)
+
+7.	The output message indicates that the number is odd. (else statement: Print num + “is odd”)
