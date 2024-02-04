@@ -1,0 +1,16 @@
+CALVO, JEZLYN MAE J.
+COM23P
+
+PSEUDOCODE (BLACK JACK)
+
+1. Stand when your hand is 12-16 and the dealer has 2-6.
+
+2. Hit when your hand is 12-16 and the dealer has 7-ace.
+
+3. Always split aces and 8s.
+
+4. Double down on 11 vs the dealer's 2-10.
+
+5. Hit or double down on aces-6.
+
+
